@@ -1,0 +1,37 @@
+﻿id,name,price,stocks,image
+,Apple,30,100,apple.png
+,Avocado,55,100,avocado.png
+,Banana,90,100,banana.png
+,Bitter Melon,90,100,bittermelon.png
+,Brocolli,250,100,brocolli.png
+,Cabbage,95,100,cabbage.png
+,Carrot,150,100,carrot.png
+,Cashew,900,100,cashew.png
+,Cauliflower,300,100,cauliflower.png
+,Chili Pepper,20,100,chilipepper.png
+,Coconut,40,100,coconut.png
+,Corn,150,100,corn.png
+,Cucumber,110,100,cucumber.png
+,Durian,900,100,durian.png
+,Eggplant,67,100,eggplant.png
+,Garlic,250,100,garlic.png
+,Ginger,160,100,ginger.png
+,Grapes,300,100,grapes.png
+,Guava,350,100,guava.png
+,Horseradish,160,100,horseradish.png
+,Hyacinth Beans,190,100,hyacinthbeans.png
+,Jackfruit,80,100,jackfruit.png
+,Long Beans,160,100,longbeans.png
+,Melon,90,100,melon.png
+,Mung Beans,102,100,mungbeans.png
+,Mushrooms,150,100,mushrooms.png
+,Onion,70,100,onion.png
+,Orange,30,100,orange.png
+,Papaya,80,100,papaya.png
+,Peanut,150,100,peanut.png
+,Bell Pepper,200,100,bellpepper.png
+,Pineapple,210,100,pineapple.png
+,Pomelo,200,100,pomelo.png
+,Potato,94,100,potato.png
+,Pumpkin,128,100,pumpkin.png
+,Squash,48,100,squash.png

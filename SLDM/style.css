@@ -1,0 +1,7 @@
+.bg-dark {
+    background-color: #589cff !important;
+}
+.navbar-dark{
+        --bs-navbar-color: rgba(0, 0, 0, 0.50);
+
+}
